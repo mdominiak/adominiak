@@ -9,15 +9,35 @@
   font-size: 100%;
 }
 
+section > .content {
+  margin-top: 21px;
+}
+
+h2 {
+  font-size: 18px;
+}
+
+.publications {
+  padding-left: 14px;
+}
+
+.publications li {
+  padding-top: 5px;
+}
+
+.publications li:first-child {
+  padding-top: 0;
+}
+
 /* ABOUT */
 
 h1 > .subtitle {
+  margin-top: 5px;
   font-size: 18px;
 }
 
 #specializations {
-  margin-top: 9px;
-  margin-left: -5px;
+  margin-top: -5px;
   margin-bottom: 12px;
 }
 
