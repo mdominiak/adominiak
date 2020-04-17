@@ -1,5 +1,9 @@
 /* COMMON */
 
+body {
+  padding-bottom: 40px;
+}
+
 #avatar {
   float: right;
   margin-top: 15px;
