@@ -35,11 +35,14 @@ h2 {
 
 .workshop {
   font-size: 16px;
-  padding-top: 5px;
+  padding-bottom: 5px;
 }
 
-.workshop:first-child {
-  padding-top: 0;
+.workshop:last-child {
+  padding-bottom: 0;
+}
+
+.hidden {
 }
 
 /* ABOUT */
